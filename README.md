@@ -9,7 +9,7 @@
 ## RESOURCES
 - [p5.js tutorials](https://p5js.org/learn/)
 - [p5.js reference](http://p5js.org/reference)
-- [The Coding Train - Shiffman's p5.js tutorials](https://www.youtube.com/user/shiffman/playlists)
+- [The Coding Train - Shiffman's p5.js tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [Learning Processing](http://learningprocessing.com/)
 
 ## COURSE REQUIREMENTS
