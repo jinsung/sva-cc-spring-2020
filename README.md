@@ -46,12 +46,12 @@
     * Client / Server side languages
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [Editor](https://editor.p5js.org/)
+  * [Setup / Draw Functions](https://editor.p5js.org/jinsung/sketches/nbKQODiF8)
   * Canvas, Pixels and Color
     * Coordinate system
     * draw mode & color mode
     * RGBA vs HSBA
   * [Shapes](https://editor.p5js.org/jinsung/sketches/2Zf_Kuhw5)
-  * [Setup / Draw Functions](https://editor.p5js.org/jinsung/sketches/nbKQODiF8)
   * [Variable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
   * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
