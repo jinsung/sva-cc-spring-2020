@@ -78,6 +78,7 @@
  * Alice, Soo Ji, Soyoung
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
+ * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
