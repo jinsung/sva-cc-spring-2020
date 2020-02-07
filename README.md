@@ -75,6 +75,8 @@
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
+ * Alice, Soo Ji, Soyoung
+ * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
@@ -82,7 +84,6 @@
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
- * [Random Presenter Picker](https://editor.p5js.org/jinsung/sketches/16fGAon8n)
  * Zach Lieberman    
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
@@ -142,7 +143,6 @@
  * [With Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
 
 ### Week 12 -- Vector / Force
- * [WWDC-Designing Fluid Interfaces 28:00](https://www.youtube.com/watch?v=gttSJA-kDmQ)
  * Vector (Class)
   * Vector vs Point
   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
