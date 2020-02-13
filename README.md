@@ -75,7 +75,7 @@
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
- * Alice, Soo Ji, Soyoung
+ * Alice, Soo Ji
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
@@ -85,11 +85,13 @@
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
+ * Soyoung
  * Zach Lieberman    
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+ * Debugger
  * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
