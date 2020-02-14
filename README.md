@@ -94,6 +94,7 @@
  * Debugger
  * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
+ * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
 ### Week 6 -- 2D Transformation / Function
