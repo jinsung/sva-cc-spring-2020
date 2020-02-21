@@ -32,10 +32,12 @@
 * [Homework #1](https://editor.p5js.org/zli13/sketches/7fH4eXbJ)
 * [Homework #2](https://editor.p5js.org/zli13/sketches/ceXclGdT)
 * [Homework #2](https://editor.p5js.org/zli13/sketches/GKD6XA4b)
+* [Homework #3](https://editor.p5js.org/zli13/sketches/D7s6-yTq)
 
 ### Nuri Park
 * [Homework #1](https://editor.p5js.org/npark2/sketches/kEIjYyC5)
 * [Homework #2](https://editor.p5js.org/npark2/sketches/nfikiJ8J)
+* [Homework #3](https://editor.p5js.org/npark2/sketches/1UAYMzz7)
 
 ### Soyoung Ro
 * [Homework #2](https://editor.p5js.org/sro3/sketches/aHT9h0nv)
@@ -43,3 +45,4 @@
 ### Sabrina Tseng
 * [Homework #1](https://editor.p5js.org/mtseng2/sketches/GbmzfFLu)
 * [Homework #2](https://editor.p5js.org/mtseng2/sketches/LgFnqdfS)
+* [Homework #3](https://editor.p5js.org/mtseng2/sketches/1cN5bXH3)
