@@ -20,7 +20,7 @@
 
 ### Tavi Lee
 * [Homework #2](https://editor.p5js.org/tvhbl/present/VYUaJCGe)
-* [Homework #3](https://editor.p5js.org/npark2/sketches/1UAYMzz7)
+* [Homework #3](https://editor.p5js.org/tvhbl/sketches/Q-yaCcDd)
 
 ### Soo Ji Lee
 * [Homework #1](https://editor.p5js.org/slee256/sketches/KMWdobjE)
