@@ -8,6 +8,7 @@
 ### Suwon Joo
 * [Homework #1](https://editor.p5js.org/suwon/sketches/C4ABahu8)
 * [Homework #2](https://editor.p5js.org/suwon/sketches/RaOFqA4-)
+* [Homework #3](https://editor.p5js.org/suwon/sketches/zXl1dDLe)
 
 ### Erica Kim
 * [Homework #1](https://editor.p5js.org/AerriecaKim/sketches/SyJ4qldH)
@@ -19,6 +20,7 @@
 
 ### Tavi Lee
 * [Homework #2](https://editor.p5js.org/tvhbl/present/VYUaJCGe)
+* [Homework #3](https://editor.p5js.org/npark2/sketches/1UAYMzz7)
 
 ### Soo Ji Lee
 * [Homework #1](https://editor.p5js.org/slee256/sketches/KMWdobjE)
