@@ -112,16 +112,17 @@
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
 
 ### Week 7 -- Function, Clock, and Object
+ * Erica, Zefang, Vivian, Suwon
  * [three.js](https://threejs.org/)
  * Function
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
-
-### Week 8 -- Object and Array
- * [DIA Studio](http://dia.tv/)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
+
+### Week 8 -- Object and Array
+ * [DIA Studio](http://dia.tv/)
 
 ### Week 9 -- Objects in Array
  * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
