@@ -6,6 +6,7 @@
 * [Homework #2](https://editor.p5js.org/lucia.jang/present/FxhKKEw9)
 * [Homework #3](https://editor.p5js.org/lucia.jang/present/v9V82IN5)
 * [Homework #4](https://editor.p5js.org/lucia.jang/present/O63p8HxF)
+* [Midterm](https://editor.p5js.org/lucia.jang/full/TZpzgj0D)
 
 ### Suwon Joo
 * [Homework #1](https://editor.p5js.org/suwon/sketches/C4ABahu8)
@@ -16,15 +17,20 @@
 ### Erica Kim
 * [Homework #1](https://editor.p5js.org/AerriecaKim/sketches/SyJ4qldH)
 * [Homework #2](https://editor.p5js.org/AerriecaKim/sketches/E63lzQo4)
+* [Homework #3](https://editor.p5js.org/AerriecaKim/sketches/QnWhFA4k)
+* [Homework #3_2](https://editor.p5js.org/AerriecaKim/sketches/Zq2qIega)
+* [Midterm](https://editor.p5js.org/AerriecaKim/sketches/UNUX4YzC)
 
 ### Vivian Kong
 * [Homework #1](https://editor.p5js.org/wkong1/sketches/YAtoCHA_)
 * [Homework #2](https://editor.p5js.org/wkong1/sketches/MT45QYbn)
 * [Homework #4](https://editor.p5js.org/wkong1/sketches/Ad3jMBO7)
+* [Midterm](https://editor.p5js.org/wkong1/sketches/1thNChYe)
 
 ### Tavi Lee
 * [Homework #2](https://editor.p5js.org/tvhbl/present/VYUaJCGe)
 * [Homework #3](https://editor.p5js.org/tvhbl/sketches/Q-yaCcDd)
+* [Midterm](https://editor.p5js.org/tvhbl/sketches/QT9Sqq-u)
 
 ### Soo Ji Lee
 * [Homework #1](https://editor.p5js.org/slee256/sketches/KMWdobjE)
@@ -40,12 +46,14 @@
 * [Homework #2](https://editor.p5js.org/zli13/sketches/ceXclGdT)
 * [Homework #2](https://editor.p5js.org/zli13/sketches/GKD6XA4b)
 * [Homework #3](https://editor.p5js.org/zli13/sketches/D7s6-yTq)
+* [Midterm](https://editor.p5js.org/zli13/sketches/rEs4DZqJ)
 
 ### Nuri Park
 * [Homework #1](https://editor.p5js.org/npark2/sketches/kEIjYyC5)
 * [Homework #2](https://editor.p5js.org/npark2/sketches/nfikiJ8J)
 * [Homework #3](https://editor.p5js.org/npark2/sketches/1UAYMzz7)
 * [Homework #4](https://editor.p5js.org/npark2/sketches/NShucqvu)
+* [Midterm](https://editor.p5js.org/npark2/sketches/-p-bbMX2)
 
 ### Soyoung Ro
 * [Homework #2](https://editor.p5js.org/sro3/sketches/aHT9h0nv)
@@ -56,3 +64,4 @@
 * [Homework #2](https://editor.p5js.org/mtseng2/sketches/LgFnqdfS)
 * [Homework #3](https://editor.p5js.org/mtseng2/sketches/1cN5bXH3)
 * [Homework #4](https://editor.p5js.org/mtseng2/sketches/qssKQVIW)
+* [Midterm](https://editor.p5js.org/mtseng2/sketches/OxXjWkX4)
