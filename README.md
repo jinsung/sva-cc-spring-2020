@@ -129,7 +129,6 @@
  * Yugo Nakamuara
    * [Clock](https://www.youtube.com/watch?v=23MB0L67MIo)
    * [DotClock](https://www.youtube.com/watch?v=u8pQ7gY44mM)
- * [John maeda clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
  * [THA LTD.](http://tha.jp/works/)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
