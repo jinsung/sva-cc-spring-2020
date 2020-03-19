@@ -112,33 +112,32 @@
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
 
 ### Week 7 -- Function, Clock, and Object
- * Erica, Zefang, Vivian, Suwon
+ * Erica, Zefang
  * [three.js](https://threejs.org/)
  * Function
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
- * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
- * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
 
 ### Week 8 -- Object and Array
+ * Suwon, Vivian, Nuri
  * [DIA Studio](http://dia.tv/)
-
-### Week 9 -- Objects in Array
- * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
- * Yugo Nakamuara
-   * [Clock](https://www.youtube.com/watch?v=23MB0L67MIo)
-   * [DotClock](https://www.youtube.com/watch?v=u8pQ7gY44mM)
- * [THA LTD.](http://tha.jp/works/)
+ * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
+ * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+ * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
+ * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
+ * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+
+### Week 9 -- Letter Animation
+ * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
+ * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
- 
-### Week 10 -- Letter Animation Due
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
  * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
-
-### Week 11 -- Image
+ 
+### Week 10 -- Image
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
  * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
@@ -146,7 +145,7 @@
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
  * [With Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
 
-### Week 12 -- Vector / Force
+### Week 11 -- Vector / Force
  * Vector (Class)
   * Vector vs Point
   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
@@ -154,10 +153,12 @@
  * Gravity
  * Friction
 
-### Week 13 -- Particle System
+### Week 12 -- Particle System
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
+
+### Week 13 -- Particle System 2
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
