@@ -36,6 +36,7 @@
 * [Homework #1](https://editor.p5js.org/slee256/sketches/KMWdobjE)
 * [Homework #2](https://editor.p5js.org/slee256/sketches/VI-5UoTS)
 * [Homework #4](https://editor.p5js.org/slee256/sketches/Q0uit9aZ)
+* [Midterm](https://editor.p5js.org/slee256/sketches/QRt-bLFtE)
 
 ### Alice Lee
 * [Homework #1](https://editor.p5js.org/alee49/present/AWt8yzfr)
