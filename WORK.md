@@ -13,6 +13,7 @@
 * [Homework #2](https://editor.p5js.org/suwon/sketches/RaOFqA4-)
 * [Homework #3](https://editor.p5js.org/suwon/sketches/zXl1dDLe)
 * [Homework #4](https://editor.p5js.org/suwon/sketches/XTD9I6iO)
+* [Midterm](https://editor.p5js.org/suwon/sketches/U2gz0i6if)
 
 ### Erica Kim
 * [Homework #1](https://editor.p5js.org/AerriecaKim/sketches/SyJ4qldH)
