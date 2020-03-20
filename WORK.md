@@ -40,6 +40,7 @@
 ### Alice Lee
 * [Homework #1](https://editor.p5js.org/alee49/present/AWt8yzfr)
 * [Homework #2](https://editor.p5js.org/alee49/full/oZbVe4Wn)
+* [Midterm](https://editor.p5js.org/alee49/sketches/C6-U5FcK)
 
 ### Zefang Li
 * [Homework #1](https://editor.p5js.org/zli13/sketches/7fH4eXbJ)
@@ -58,6 +59,7 @@
 ### Soyoung Ro
 * [Homework #2](https://editor.p5js.org/sro3/sketches/aHT9h0nv)
 * [Homework #4](https://editor.p5js.org/sro3/sketches/t_sSBVzA)
+* [Midterm](https://editor.p5js.org/sro3/sketches/vLYOR_Mf)
 
 ### Sabrina Tseng
 * [Homework #1](https://editor.p5js.org/mtseng2/sketches/GbmzfFLu)
