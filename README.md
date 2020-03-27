@@ -120,7 +120,7 @@
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
 
 ### Week 8 -- Object and Array
- * Suwon, Vivian, Nuri
+ * Suwon
  * [DIA Studio](http://dia.tv/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
@@ -130,6 +130,7 @@
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
 
 ### Week 9 -- Letter Animation
+ * Vivian, Nuri
  * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
  * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
