@@ -50,6 +50,7 @@
 * [Homework #2](https://editor.p5js.org/zli13/sketches/GKD6XA4b)
 * [Homework #3](https://editor.p5js.org/zli13/sketches/D7s6-yTq)
 * [Midterm](https://editor.p5js.org/zli13/sketches/rEs4DZqJ)
+* [Midterm 2](https://editor.p5js.org/zli13/sketches/rEs4DZqJ)
 
 ### Nuri Park
 * [Homework #1](https://editor.p5js.org/npark2/sketches/kEIjYyC5)
