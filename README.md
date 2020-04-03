@@ -145,7 +145,8 @@
  * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
- * [With Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
+ * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
+ * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
 
 ### Week 11 -- Vector / Force
  * Vector (Class)
