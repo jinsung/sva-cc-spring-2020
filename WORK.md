@@ -7,6 +7,7 @@
 * [Homework #3](https://editor.p5js.org/lucia.jang/present/v9V82IN5)
 * [Homework #4](https://editor.p5js.org/lucia.jang/present/O63p8HxF)
 * [Midterm](https://editor.p5js.org/lucia.jang/full/TZpzgj0D)
+* [Homework #5](https://editor.p5js.org/lucia.jang/sketches/u-itzbUoH)
 
 ### Suwon Joo
 * [Homework #1](https://editor.p5js.org/suwon/sketches/C4ABahu8)
@@ -46,7 +47,7 @@
 * [Homework #1](https://editor.p5js.org/alee49/present/AWt8yzfr)
 * [Homework #2](https://editor.p5js.org/alee49/full/oZbVe4Wn)
 * [Midterm](https://editor.p5js.org/alee49/sketches/C6-U5FcK)
-* [Homework #5](https://editor.p5js.org/alee49/full/w0mBrKDW3)
+* [Homework #5](https://editor.p5js.org/alee49/sketches/w0mBrKDW3)
 
 ### Zefang Li
 * [Homework #1](https://editor.p5js.org/zli13/sketches/7fH4eXbJ)
