@@ -163,14 +163,12 @@
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
-
-### Week 13 -- Particle System 2
- * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
- * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
-
+ 
 ### Week 14 -- 1:1 Meeting
 
-### Week 15 -- Final Project Presentation
+### Week 13 -- Particle System 2 / Final Project Presentation
+ * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
+ * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
 ## Students with Disabilities
 
