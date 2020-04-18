@@ -15,13 +15,16 @@
 * [Homework #3](https://editor.p5js.org/suwon/sketches/zXl1dDLe)
 * [Homework #4](https://editor.p5js.org/suwon/sketches/XTD9I6iO)
 * [Midterm](https://editor.p5js.org/suwon/sketches/U2gz0i6if)
+* [Homework #5](https://editor.p5js.org/suwon/sketches/ClhOdbDbn)
 
 ### Erica Kim
 * [Homework #1](https://editor.p5js.org/AerriecaKim/sketches/SyJ4qldH)
 * [Homework #2](https://editor.p5js.org/AerriecaKim/sketches/E63lzQo4)
 * [Homework #3](https://editor.p5js.org/AerriecaKim/sketches/QnWhFA4k)
 * [Homework #3_2](https://editor.p5js.org/AerriecaKim/sketches/Zq2qIega)
+* [Homework #4](https://editor.p5js.org/AerriecaKim/sketches/9B78PKC65)
 * [Midterm](https://editor.p5js.org/AerriecaKim/sketches/UNUX4YzC)
+* [Homework #5](https://editor.p5js.org/AerriecaKim/sketches/ROFkLOyNN)
 
 ### Vivian Kong
 * [Homework #1](https://editor.p5js.org/wkong1/sketches/YAtoCHA_)
