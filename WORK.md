@@ -82,6 +82,7 @@
 * [Homework #2](https://editor.p5js.org/sro3/sketches/aHT9h0nv)
 * [Homework #4](https://editor.p5js.org/sro3/sketches/t_sSBVzA)
 * [Midterm](https://editor.p5js.org/sro3/sketches/vLYOR_Mf)
+* [Final](https://editor.p5js.org/sro3/sketches/oDAJUzC2K)
 
 ### Sabrina Tseng
 * [Homework #1](https://editor.p5js.org/mtseng2/sketches/GbmzfFLu)
